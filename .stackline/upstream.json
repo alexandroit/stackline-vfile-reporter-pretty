@@ -1,0 +1,22 @@
+{
+  "upstream": "vfile-reporter-pretty",
+  "fork": "@stackline/vfile-reporter-pretty",
+  "repository": "alexandroit/stackline-vfile-reporter-pretty",
+  "upstreamRepository": "vfile/vfile-reporter-pretty",
+  "upstreamVersion": "6.1.1",
+  "sourceCommit": "77761c9eb7dccd1bcde7c0df742e4e7413fb5f57",
+  "upstreamIntegrity": "sha512-y5rz0qA6RVqg3yyfeDIIpfXNcuXIQ/lZPTDKE3pkacUAvw7BDIX9YgfdMcoiDcXPtB+88Sd2lnx9kEMUt90SOw==",
+  "status": "source-ready",
+  "files": {
+    "license": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+    "index.js": "18f315efb5988c29829f13ce778eaa85e8c10caa42858926f423ce3ce3a957de",
+    "lib/index.js": "a58e00b74eac66b254c6600bb314fbad380e16fc90ffaad2d84f21c20bd348c9",
+    "package.json": "b50e6567cad3a22abe6b2592fe466393def46ae2957fceee09c69c82bf693c8c",
+    "readme.md": "c35f862f8b89f3c7e1a41b26d5a54e100ac4ef3a6a0947a5f50fe1f4f03e1dd3",
+    "index.d.ts": "18f315efb5988c29829f13ce778eaa85e8c10caa42858926f423ce3ce3a957de",
+    "lib/index.d.ts": "4f14fe5b2532baea4901075fd32bec259ae3954cbf0e16aa21ebef15e6d97053"
+  },
+  "allowedRuntimeChanges": [],
+  "testCommand": "node --conditions development test.js",
+  "strategy": "Published upstream files, including generated declarations, are preserved and checked against SHA-256. Functional tests run against source and the extracted final package. Changes to published runtime files require an explicit reviewed allowlist."
+}
