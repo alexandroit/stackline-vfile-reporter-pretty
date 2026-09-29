@@ -4,7 +4,7 @@
     {
       "name": "@stackline/vfile-reporter-pretty",
       "path": "readme.md",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "baselineVersion": "1.0.0",
       "keywords": [
         "stackline",
@@ -29,8 +29,8 @@
       "homepage": "https://alexandro.net/docs/vanilla/vfile-reporter-pretty/",
       "baselineTarball": "https://registry.npmjs.org/@stackline/vfile-reporter-pretty/-/vfile-reporter-pretty-1.0.0.tgz",
       "baselineIntegrity": "sha512-53r2S50JsMBVh8RPMLsGEVMmun+Ok+gmAGOCKh7hllkE6SA4IpldBqtmuq+nIffhw8DXHBebIzHgEakXnHZMzg==",
-      "expectedSha512": "6596ada6ddadab45bdd531943a665f2c329982a0364d590cdfcf468d34e6e5d0f4dabe81cf6e7ee59f8e978727cc6c0295fbb72d33148b55789e6458bf68f729",
-      "tag": "docs-stackline-vfile-reporter-pretty-v1.0.1"
+      "expectedSha512": "c0c56a4e9a6bdd71fa158c237000af7d1c6ec3cbcf0ef93d54c199a578d2a7a71cc6c56f94cc6ab29520d6f05dd09a60e7cb92ccbe3d98bf5552460ea68f019b",
+      "tag": "docs-stackline-vfile-reporter-pretty-v1.0.2"
     }
   ]
 }
