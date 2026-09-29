@@ -1,0 +1,36 @@
+{
+  "repository": "alexandroit/stackline-vfile-reporter-pretty",
+  "packages": [
+    {
+      "name": "@stackline/vfile-reporter-pretty",
+      "path": "readme.md",
+      "version": "1.0.1",
+      "baselineVersion": "1.0.0",
+      "keywords": [
+        "stackline",
+        "npm-package",
+        "vfile-reporter-pretty",
+        "typescript",
+        "vfile",
+        "vfile-util",
+        "vfile-reporter",
+        "util",
+        "utility",
+        "reporter",
+        "virtual",
+        "file",
+        "formatter",
+        "lint",
+        "eslint",
+        "validate",
+        "pretty",
+        "maintenance-fork"
+      ],
+      "homepage": "https://alexandro.net/docs/vanilla/vfile-reporter-pretty/",
+      "baselineTarball": "https://registry.npmjs.org/@stackline/vfile-reporter-pretty/-/vfile-reporter-pretty-1.0.0.tgz",
+      "baselineIntegrity": "sha512-53r2S50JsMBVh8RPMLsGEVMmun+Ok+gmAGOCKh7hllkE6SA4IpldBqtmuq+nIffhw8DXHBebIzHgEakXnHZMzg==",
+      "expectedSha512": "6596ada6ddadab45bdd531943a665f2c329982a0364d590cdfcf468d34e6e5d0f4dabe81cf6e7ee59f8e978727cc6c0295fbb72d33148b55789e6458bf68f729",
+      "tag": "docs-stackline-vfile-reporter-pretty-v1.0.1"
+    }
+  ]
+}
