@@ -26,8 +26,12 @@
     "test:package": "node scripts/test-package.mjs",
     "test:types": "tsc --ignoreConfig --noEmit --module NodeNext --moduleResolution NodeNext --target ES2022 --strict test/stackline-types.mts"
   },
-  "homepage": "https://github.com/alexandroit/stackline-vfile-reporter-pretty#readme",
+  "homepage": "https://alexandro.net/docs/vanilla/vfile-reporter-pretty/",
   "keywords": [
+    "stackline",
+    "npm-package",
+    "vfile-reporter-pretty",
+    "typescript",
     "vfile",
     "vfile-util",
     "vfile-reporter",
@@ -41,7 +45,6 @@
     "eslint",
     "validate",
     "pretty",
-    "stackline",
     "maintenance-fork"
   ],
   "prettier": {
@@ -92,7 +95,7 @@
     "typescript": "7.0.2",
     "@types/node": "24.12.2"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publishConfig": {
     "access": "public"
   },
